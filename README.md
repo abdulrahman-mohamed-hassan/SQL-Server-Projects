@@ -47,15 +47,6 @@ A collection of SQL Server database projects demonstrating advanced T-SQL skills
 
 ---
 
-## About BikeStores Database
-
-The BikeStores database is a sample database that contains:
-- **9 tables:** brands, categories, products, customers, stores, staffs, orders, order_items, stocks
-- **Real data:** bicycle sales data from multiple stores
-- **Used for:** Testing and demonstrating SQL queries, procedures, and functions
-
----
-
 ## Technologies Used
 - SQL Server
 - T-SQL (Transact-SQL)
@@ -67,4 +58,8 @@ The BikeStores database is a sample database that contains:
 **Abdulrahman Noaman**
 Business Information Systems Student | AASTMT
 
-Fall 2024 – Spring 2025
+
+---
+
+## 📅 Date
+Spring 2025
