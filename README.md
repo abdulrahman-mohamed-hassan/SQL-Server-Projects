@@ -1,7 +1,7 @@
 # SQL Server Projects
 
 ## Project Overview
-A collection of SQL Server database projects demonstrating advanced T-SQL skills including stored procedures, user-defined functions, and database schema design. All queries and procedures are applied to the **BikeStores sample database**.
+A collection of SQL Server database projects demonstrating advanced T-SQL skills including stored procedures, user-defined functions, and database schema design. 
 
 ---
 
